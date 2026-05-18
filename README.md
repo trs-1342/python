@@ -1,2 +1,3 @@
 # python
-python hakkinda ogrendiklerim
+
+python hakkinda ogrendiklerimi paylastigim bir repodur.
