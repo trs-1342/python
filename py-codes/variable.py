@@ -30,3 +30,20 @@ print(type(v))
 # her ikisi ayni degil cunku biri buyu biri kucuk harf ile basladi
 name="halil"
 Name='atlas' # tek ' tirnakla yazdirma veya degisken atama islemi yapilabilir
+
+# ---
+
+adSoyad="halil hattab"
+
+AdSoyad="halil hattab"
+
+ad_soyad="halil hattab" # favorim
+
+# tek bir satirla bir cok degisken olusturma ve degerleri atama:
+
+x,y,z="halil", 1342, 19 # virgul ile ayirarak atama yapildi
+i=j=k="selam dunya" # hepsine ayni degeri atadi
+
+first_name=ad_soyad # degiskeni baska bir degiskene atama
+
+print(x, y, z) # ayni anda yazdirma
