@@ -1,0 +1,4 @@
+photos/
+venv/
+*.env*
+node_modules/
